@@ -1,0 +1,24 @@
+{
+  "name": "shopexpress",
+  "version": "1.0.0",
+  "description": "ShopExpress with MERN Stack",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desusmita1/ShopExpress.git"
+  },
+  "author": "Susmita De",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desusmita1/ShopExpress/issues"
+  },
+  "homepage": "https://github.com/desusmita1/ShopExpress#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
