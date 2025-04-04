@@ -26,3 +26,5 @@ yarn-error.log*
 # local files
 commands.txt
 previousPackages
+jest.js 
+
